@@ -1,16 +1,25 @@
 # app_sql
 
-A new Flutter project.
+Amazing Ui desing in Flutter with SQflite Database to add items in cart
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+It looks like you have a great accomplishment to share on LinkedIn related to your Flutter project. Here's a revised and polished version of your message:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+"Recently, while browsing YouTube, I stumbled upon an inspiring Flutter tutorial by @TheFlutterWay. After watching the tutorial and being captivated by the UI design, I decided to take on the challenge of recreating it myself.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I successfully cloned this amazing app in Flutter, utilizing my skills in both UI design and development. It's worth noting that I didn't rely on existing code but instead implemented my own solution.
+
+This project showcases my proficiency in two key concepts:
+
+Provider - for state management.
+SQFlite Database - for efficient data storage.
+I'm thrilled with the outcome and proud of the skills I've honed along the way. Stay tuned for more exciting projects!"
+
+Feel free to customize and embellish this message to better reflect your personal experience and achievements. Congratulations on your successful Flutter project, and best of luck with sharing it on LinkedIn!
+
+
+
+
+
+
