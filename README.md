@@ -23,3 +23,12 @@ Feel free to customize and embellish this message to better reflect your persona
 
 
 
+
+
+![MOckup](https://github.com/DEVQamaRSulTaN/Shopping-App-Flutter/assets/139233554/5548e4c9-3112-4ff4-9e1d-3b6235654dcf)
+
+
+
+
+
+
